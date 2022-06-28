@@ -10,4 +10,4 @@
 
 5-firstlines - This script will display the first 10 lines of /etc/passwd
 
-
+6-third_line - This script will display the 3rd line in iacta.
